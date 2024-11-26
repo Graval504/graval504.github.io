@@ -4,10 +4,11 @@
     <title>Resume on GravalBlog</title>
     <link>/resume/</link>
     <description>Recent content in Resume on GravalBlog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>graval504@seoultech.ac.kr (Graval504)</managingEditor>
     <webMaster>graval504@seoultech.ac.kr (Graval504)</webMaster>
+    <copyright>© 2024 Graval504</copyright>
     <atom:link href="/resume/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
