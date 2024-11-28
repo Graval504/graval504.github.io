@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on GravalBlog</title>
+    <link>/programming/</link>
+    <description>Recent content in Programming on GravalBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <managingEditor>graval504@seoultech.ac.kr (Graval504)</managingEditor>
+    <webMaster>graval504@seoultech.ac.kr (Graval504)</webMaster>
+    <copyright>© 2024 Graval504</copyright>
+    <atom:link href="/programming/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

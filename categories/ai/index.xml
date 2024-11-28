@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on GravalBlog</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on GravalBlog</description>
+    <title>AI on GravalBlog</title>
+    <link>/categories/ai/</link>
+    <description>Recent content in AI on GravalBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <managingEditor>graval504@seoultech.ac.kr (Graval504)</managingEditor>
     <webMaster>graval504@seoultech.ac.kr (Graval504)</webMaster>
     <copyright>© 2024 Graval504</copyright>
-    <lastBuildDate>Fri, 29 Nov 2024 06:52:19 +0900</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 06:52:19 +0900</lastBuildDate><atom:link href="/categories/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pytorch num_workers Problem on Windows</title>
       <link>/posts/ai/pytorch-num_workers-problem-on-windows/</link>
       <pubDate>Fri, 29 Nov 2024 06:52:19 +0900</pubDate>
       <author>graval504@seoultech.ac.kr (Graval504)</author>
       <guid>/posts/ai/pytorch-num_workers-problem-on-windows/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>/posts/programming/hello-world/</link>
-      <pubDate>Tue, 26 Nov 2024 11:36:35 +0900</pubDate>
-      <author>graval504@seoultech.ac.kr (Graval504)</author>
-      <guid>/posts/programming/hello-world/</guid>
       <description></description>
       
     </item>
